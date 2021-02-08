@@ -13,7 +13,6 @@
 </ul>
 
 <h2>
-  
-https://i.ibb.co/zXmDb56/Message-Bar-Gif.gif
+![alt text](https://i.ibb.co/zXmDb56/Message-Bar-Gif.gif)
   
   
